@@ -23,7 +23,7 @@ const thisara = {
     name        : "Thisara Chandima Ilangakoon",
     alias       : "Thisara",
     pronouns    : ["he", "him"],
-    location    : "📍 Danowita, Sri Lanka 🇱🇰",
+    location    : "📍 Sri Lanka 🇱🇰",
     education   : [
         "BSc (Hons) Computer Science",
         "Informatics Institute of Technology (IIT)",
