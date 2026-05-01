@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <a href="https://github.com/geminthisa">
+  <a href="https://github.com/ThisaraChandima">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Thisara+%F0%9F%91%8B;CS+%26+AI+Student+%7C+IoT+Developer;Building+CombatPulse+%26+trading+bots+%F0%9F%A4%96;Mechatronics+%7C+Automation+%7C+Hardware" alt="Typing SVG" />
   </a>
 </div>
@@ -9,8 +9,8 @@
 
 <!-- Visitor Badge -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=geminthisa&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/geminthisa?color=00d4ff&style=flat-square&logo=github&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=ThisaraChandima&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ThisaraChandima?color=00d4ff&style=flat-square&logo=github&label=Followers" alt="Followers" />
 </div>
 
 ---
@@ -21,11 +21,11 @@
 ```python
 const geminthisa = {
     name        : "Thisara Chandima Ilangakoon",
-    alias       : "Geminthisa",
+    alias       : "Thisara",
     pronouns    : ["he", "him"],
     location    : "📍 Danowita, Sri Lanka 🇱🇰",
     education   : [
-        "BSc Computer Science & Artificial Intelligence",
+        "BSc (Hons) Computer Science",
         "Informatics Institute of Technology (IIT)",
         "Affiliated with University of Westminster 🎓"
     ],
@@ -92,12 +92,12 @@ const geminthisa = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geminthisa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geminthisa&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThisaraChandima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisaraChandima&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geminthisa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisaraChandima&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -106,7 +106,7 @@ const geminthisa = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=geminthisa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ThisaraChandima&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
 </div>
 
 ---
@@ -137,9 +137,9 @@ const geminthisa = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geminthisa)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geminthisa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thisarachandima/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThisaraChandima)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilangathisara@gmail.com)
 
 </div>
 
