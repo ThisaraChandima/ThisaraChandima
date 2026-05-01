@@ -19,7 +19,7 @@
 ## 🧑‍💻 About Me
 
 ```python
-const geminthisa = {
+const thisara = {
     name        : "Thisara Chandima Ilangakoon",
     alias       : "Thisara",
     pronouns    : ["he", "him"],
