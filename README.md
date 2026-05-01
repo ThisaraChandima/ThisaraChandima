@@ -1,4 +1,4 @@
-# Ayubowan! 🙏🏻 I'm Geminthisa (Thisara)
+# Ayubowan! 🙏🏻 I'm Thisara
 
 ### Electronics & IoT Developer | AI Automation Engineer | Computer Science Student
 
