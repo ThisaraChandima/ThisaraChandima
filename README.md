@@ -118,7 +118,6 @@ const thisara = {
 🤖  Robotics Competitions   →  Mechatronics & technical roles (Xbotix, SLIIT Robofest)
 📸  Photography             →  Drone ops, landscape & night sky
 🏕️  Outdoors               →  Nature trekking, camping, white water rafting
-🚗  Automotive              →  Maintaining a red Peugeot 3008
 ```
 
 ---
